@@ -1,0 +1,2 @@
+# oscar
+todo esto 
